@@ -85,7 +85,7 @@ A principal inovação deste projeto é a aplicação da técnica **SHAP (SHaple
 - Isso confirma que os erros não são aleatórios ou baseados em artefatos de imagem, mas sim decorrentes da **ambiguidade visual inerente** às expressões faciais.
 
 <div align="center">
-  <img src="assets/shap_example.png" alt="Exemplo de mapa SHAP" width="600"/>
+  <img width="1458" height="511" alt="shap_exemplo" src="https://github.com/user-attachments/assets/14b7711b-2cd9-4c81-ad8c-0baa13987887" />
   <br>
   <em>Figura: Mapa SHAP para uma amostra de 'angry' classificada como 'sad'. A sobreposição das regiões em destaque evidencia a ambiguidade visual.</em>
 </div>
