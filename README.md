@@ -142,5 +142,3 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 - Lundberg, S. M., & Lee, S.-I. (2017). *A Unified Approach to Interpreting Model Predictions* (SHAP).
 
 ---
-
-💡 **Dica:** Não se esqueça de substituir os links do `assets/shap_example.png` pela imagem real que você gerou, e os placeholders de perfil para os seus links reais do LinkedIn/GitHub.
