@@ -28,11 +28,11 @@ Utilizamos a base [**FER2013**](https://www.kaggle.com/datasets/msambare/fer2013
 
 | Classe       | Amostras (Treino) | Amostras (Teste) |
 |--------------|-------------------|------------------|
-| Angry        | -                 | 958              |
-| Happy        | -                 | 1.774            |
-| Neutral      | -                 | 1.233            |
-| Sad          | -                 | 1.247            |
-| Surprise     | -                 | 831              |
+| Angry        | 3.995                 | 958              |
+| Happy        | 7.215                 | 1.774            |
+| Neutral      | 4.965                 | 1.233            |
+| Sad          | 4.830                 | 1.247            |
+| Surprise     | 3.171                 | 831              |
 
 ---
 
@@ -121,9 +121,9 @@ Este projeto foi desenvolvido em **Google Colab** para facilitar a reprodução.
 
 ## 👥 Autores
 
-- **Caio Vinícius Maciel Delgado** - [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/seu-github)
-- **Guilherme Pança Franco** - [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/seu-github)
-- **João Pedro Garcia Bronharo** - [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/seu-github)
+- **Caio Vinícius Maciel Delgado** - [LinkedIn](https://www.linkedin.com/in/caio-vin%C3%ADcius-maciel-delgado-55730b31b/) | [GitHub](https://github.com/CaioVDelgado)
+- **Guilherme Pança Franco** - [LinkedIn](https://www.linkedin.com/in/guilherme-panca-franco-60a80a360/?skipRedirect=true) | [GitHub](https://github.com/Gu1-Fr4nc0)
+- **João Pedro Garcia Bronharo** - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-garcia-210b0a321/) | [GitHub](https://github.com/seu-github)
 
 *Projeto desenvolvido para a disciplina de **Sistemas Inteligentes 1** - Engenharia de Computação - Universidade Tecnológica Federal do Paraná (UTFPR).*
 
